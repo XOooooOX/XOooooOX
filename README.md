@@ -5,4 +5,5 @@
 - 📌 My training courses @ https://toplearn.com/masters/Psymhoseincom
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOooooOX)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOooooOX&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
